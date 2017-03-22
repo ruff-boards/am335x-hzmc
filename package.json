@@ -1,0 +1,14 @@
+{
+    "name": "am335x-hzmc",
+    "version": "0.1.0",
+    "description": "Metadata for board am335x-hzmc v2.3",
+    "author": "Nanchao Inc.",
+    "ruff": {
+        "dependencies": {
+            "rs485-uart2": "^0.1.0"
+        }
+    },
+    "engines": {
+        "ruff": ">=1.7.3 <2.0.0"
+    }
+}
