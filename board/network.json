@@ -1,21 +1,21 @@
 {
-    "Ethernet": {
-        [
+    "Ethernet": [
+        {
             "name": "ETH0",
             "type": "dhcp"
-        ],
-        [
+        },
+        {
             "name": "ETH1",
             "type": "static",
             "args": {
                 "ip": "192.168.1.100",
                 "mask": "255.255.255.0"
             }
-        ]
-    },
-    "WiFi": {
-        [
+        }
+    ],
+    "WiFi": [
+        {
             "name": "WLAN0"
-        ]
-    }
+        }
+    ]
 }

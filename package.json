@@ -1,6 +1,6 @@
 {
     "name": "am335x-hzmc",
-    "version": "0.1.6",
+    "version": "0.1.7",
     "description": "Metadata for board am335x-hzmc v2.3",
     "author": "Nanchao Inc.",
     "ruff": {
