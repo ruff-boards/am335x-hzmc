@@ -110,7 +110,7 @@
             }
         },
         {
-            "id": "rs485-1",
+            "id": "uartext-1",
             "model": "rs485-uart2",
             "driver": "rs485-uart2",
             "inputs": {
@@ -128,7 +128,7 @@
             }
         },
         {
-            "id": "rs485-2",
+            "id": "uartext-2",
             "model": "rs485-uart2",
             "driver": "rs485-uart2",
             "inputs": {
@@ -146,7 +146,7 @@
             }
         },
         {
-            "id": "rs485-3",
+            "id": "uartext-3",
             "model": "rs485-uart2",
             "driver": "rs485-uart2",
             "inputs": {
@@ -164,7 +164,7 @@
             }
         },
         {
-            "id": "rs485-4",
+            "id": "uartext-4",
             "model": "rs485-uart2",
             "driver": "rs485-uart2",
             "inputs": {
